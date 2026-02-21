@@ -1,3 +1,11 @@
 Launch an App from GitHub
 
+Create server and domain free
 https://fly.io/dashboard/gayan-rasika
+
+
+Making Database in free
+https://console.neon.tech/app/projects/cold-sun-84603756?database=neondb
+
+
+
